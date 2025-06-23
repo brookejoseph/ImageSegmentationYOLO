@@ -1,6 +1,5 @@
 ## Image Segmentation with U-Nets and YOLO 
 
-# Introduction
 This repository contains the implementation of image segmentation using U-Nets and YOLO v9.
 
 Image segmentation is the process of partitioning an image into multiple segments (sets of pixels) to simplify or change the representation of an image into something more meaningful and easier to analyze.
